@@ -13,7 +13,7 @@ public class TicTacToeBoard {
     this.board=board.toLowerCase();
   }
   
-  public static void main(String args[])
+  public static void main(String[] args)
 
   {
 	  TicTacToeBoard result=new TicTacToeBoard("xoooxxoox");
